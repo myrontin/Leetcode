@@ -1,4 +1,4 @@
-package java.depthFirstSearch.sameTree;
+package java.tree;
 
 public class TreeNode {
 	public int val;
